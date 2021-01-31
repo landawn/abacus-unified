@@ -19,9 +19,9 @@ package com.landawn.abacus.unified;
 /**
  *  // TODO
  */
-public final class MoreStringUtil {
+public final class MoreArrayUtil {
 
-    private MoreStringUtil() {
+    private MoreArrayUtil() {
         // Singleton for utility class.
     }
 
