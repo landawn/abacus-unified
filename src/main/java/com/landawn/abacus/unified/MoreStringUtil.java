@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.landawn.abacus.apache.commons;
+package com.landawn.abacus.unified;
 
 public final class MoreStringUtil {
 
