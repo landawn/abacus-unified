@@ -96,13 +96,6 @@
 		</dependency>
 
 		<dependency>
-			<groupId>commons-beanutils</groupId>
-			<artifactId>commons-beanutils</artifactId>
-			<version>1.9.4</version>
-			<scope>provided</scope>
-		</dependency>
-
-		<dependency>
 			<groupId>org.apache.xmlbeans</groupId>
 			<artifactId>xmlbeans</artifactId>
 			<version>4.0.0</version>
@@ -233,6 +226,20 @@
 			<groupId>org.jinq</groupId>
 			<artifactId>jinq-jpa</artifactId>
 			<version>1.8.32</version>
+			<scope>provided</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>org.jinq</groupId>
+			<artifactId>jinq-jooq</artifactId>
+			<version>1.8.32</version>
+			<scope>provided</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>org.jooq</groupId>
+			<artifactId>jooq</artifactId>
+			<version>3.14.6</version>
 			<scope>provided</scope>
 		</dependency>
 
